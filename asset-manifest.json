@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/latif731/netflix-clone.git/static/css/main.fe9b545f.chunk.css",
+    "main.js": "/latif731/netflix-clone.git/static/js/main.a7e59203.chunk.js",
+    "main.js.map": "/latif731/netflix-clone.git/static/js/main.a7e59203.chunk.js.map",
+    "runtime-main.js": "/latif731/netflix-clone.git/static/js/runtime-main.cad74e90.js",
+    "runtime-main.js.map": "/latif731/netflix-clone.git/static/js/runtime-main.cad74e90.js.map",
+    "static/js/2.c7fa6604.chunk.js": "/latif731/netflix-clone.git/static/js/2.c7fa6604.chunk.js",
+    "static/js/2.c7fa6604.chunk.js.map": "/latif731/netflix-clone.git/static/js/2.c7fa6604.chunk.js.map",
+    "static/js/3.bebc19f9.chunk.js": "/latif731/netflix-clone.git/static/js/3.bebc19f9.chunk.js",
+    "static/js/3.bebc19f9.chunk.js.map": "/latif731/netflix-clone.git/static/js/3.bebc19f9.chunk.js.map",
+    "index.html": "/latif731/netflix-clone.git/index.html",
+    "static/css/main.fe9b545f.chunk.css.map": "/latif731/netflix-clone.git/static/css/main.fe9b545f.chunk.css.map",
+    "static/js/2.c7fa6604.chunk.js.LICENSE.txt": "/latif731/netflix-clone.git/static/js/2.c7fa6604.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/latif731/netflix-clone.git/static/media/logo.6ce24c58.svg",
+    "static/media/netflixlogo.770e81e1.png": "/latif731/netflix-clone.git/static/media/netflixlogo.770e81e1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cad74e90.js",
+    "static/js/2.c7fa6604.chunk.js",
+    "static/css/main.fe9b545f.chunk.css",
+    "static/js/main.a7e59203.chunk.js"
+  ]
+}
